@@ -1,1 +1,1 @@
-# template_gnuplot
+# template of gnuplot
